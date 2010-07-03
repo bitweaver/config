@@ -10,3 +10,6 @@
 [submodule "iconsets/highcontrast"]
 	path = iconsets/highcontrast
 	url = git://github.com/bitweaver/iconset_highcontrast.git
+[submodule "themes/basic"]
+	path = themes/basic
+	url = git://github.com/bitweaver/theme_basic.git
