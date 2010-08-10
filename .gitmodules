@@ -13,3 +13,6 @@
 [submodule "themes/basic"]
 	path = themes/basic
 	url = git://github.com/bitweaver/theme_basic.git
+[submodule "themes/blueprint"]
+	path = themes/blueprint
+	url = git@github.com:bitweaver/theme_blueprint.git
