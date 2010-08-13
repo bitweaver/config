@@ -16,3 +16,6 @@
 [submodule "themes/blueprint"]
 	path = themes/blueprint
 	url = git@github.com:bitweaver/theme_blueprint.git
+[submodule "themes/pillbox"]
+	path = themes/pillbox
+	url = git@github.com:bitweaver/theme_pillbox.git
