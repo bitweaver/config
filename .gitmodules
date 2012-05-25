@@ -1,18 +1,18 @@
 [submodule "iconsets/tango"]
 	path = iconsets/tango
-	url = git://github.com/bitweaver/iconset_tango.git
+	url = git@github.com:bitweaver/iconset_tango.git
 [submodule "iconsets/gorilla"]
 	path = iconsets/gorilla
-	url = git://github.com/bitweaver/iconset_gorilla.git
+	url = git@github.com:bitweaver/iconset_gorilla.git
 [submodule "iconsets/gnome"]
 	path = iconsets/gnome
-	url = git://github.com/bitweaver/iconset_gnome.git
+	url = git@github.com:bitweaver/iconset_gnome.git
 [submodule "iconsets/highcontrast"]
 	path = iconsets/highcontrast
-	url = git://github.com/bitweaver/iconset_highcontrast.git
+	url = git@github.com:bitweaver/iconset_highcontrast.git
 [submodule "themes/basic"]
 	path = themes/basic
-	url = git://github.com/bitweaver/theme_basic.git
+	url = git@github.com:bitweaver/theme_basic.git
 [submodule "themes/blueprint"]
 	path = themes/blueprint
 	url = git@github.com:bitweaver/theme_blueprint.git
